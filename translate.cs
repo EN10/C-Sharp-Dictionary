@@ -3,7 +3,8 @@ using System.Collections.Generic;   // Dictionary
 
 namespace Translate
 {
-    class Translate {
+    class Translate
+    {
         static void Main(string[] args)
         {
             Dictionary<string, string> EnFr =
@@ -16,7 +17,8 @@ namespace Translate
             EnFr.Add("black", "noir");
 
             string EnWord = "";
-            while (EnWord != "q"){   // quit
+            while (EnWord != "q")   // quit
+            {
                 Console.WriteLine("Please enter English word to Translate into French or (q)uit:");
                 EnWord = Console.ReadLine();
 
