@@ -1,5 +1,5 @@
-using System;
-using System.Collections.Generic;
+using System;                       // Console
+using System.Collections.Generic;   // Dictionary
 
 namespace Translate
 {
