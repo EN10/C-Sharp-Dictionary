@@ -6,7 +6,7 @@ Simple implementation of a Dictionary in C# to translate words.
 
 install c# on ubuntu:
 
-`sudo apt install mcs`
+`sudo apt install mono-mcs`
   
 compile:
 
